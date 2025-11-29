@@ -5,7 +5,7 @@
 </div>
 <div>
   <h3>Hi there, I'm Miguel Machado 👋</h3>
-  <h4>My hommies can call me "Miguyy"!</h4>
+  <h4>My nickname is: Miguyy</h4>
 </div>
 <div>
   <h2>I'm a Student and Developer!</h2>
