@@ -36,7 +36,7 @@
   <h2>Software and Tools</h2>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai,arduino,blender,figma,git,github,powershell,ps,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=ai,arduino,blender,figma,git,github,notion,powershell,ps,visualstudio,vscode" />
   </a>
 </p>
 </div>
