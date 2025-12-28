@@ -5,7 +5,7 @@
 </div>
 <div>
   <h3>Hi there, I'm Miguel Machado 👋</h3>
-  <h4>My nickname is: Miguyy</h4>
+  <h4>My nickname is Miguyy</h4>
 </div>
 <div>
   <h2>I'm a Student and Developer!</h2>
@@ -28,7 +28,15 @@
   <h2>Programming Languages and FrameWorks</h2>
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,css,html,js,python,vue" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,python,vue" />
+  </a>
+</p>
+</div>
+<div>
+  <h2>Relearning Programming Languages and FrameWorks</h2>
+  <p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,cpp" />
   </a>
 </p>
 </div>
