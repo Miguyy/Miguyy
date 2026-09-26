@@ -26,7 +26,7 @@ void loop(){
 
 ## who am I?
 
-<img src="https://media1.tenor.com/m/qnGYtIWuaMUAAAAd/sai-sai-nanami.gif" width="160" align="right" alt="sai_nanami" />
+<img src="https://media1.tenor.com/m/cuPqz2bDBd4AAAAC/steins-gate-my-honest-reaction.gif" width="160" align="right" alt="okabe" />
 
 - Back-end developer · **LTDW - Technologies and Web Development at FMAD**, Vila do Conde
 - **21** and spend my time coding, watching anime, reading manga, and playing games
@@ -34,7 +34,7 @@ void loop(){
 
 ## what do I know?
 
-<img src="https://media1.tenor.com/m/SB7bA0AubVwAAAAC/mio-nichijou.gif" width="280" align="right" alt="mai" />
+<img src="https://media1.tenor.com/m/qnGYtIWuaMUAAAAd/sai-sai-nanami.gif" width="280" align="right" alt="sai_nanami" />
 
 <table>
   <tr>
@@ -74,7 +74,7 @@ void loop(){
 
 ## still curious?
 
-<img src="https://media1.tenor.com/m/cuPqz2bDBd4AAAAC/steins-gate-my-honest-reaction.gif" width="160" align="right" alt="okabe" />
+<img src="https://media1.tenor.com/m/SB7bA0AubVwAAAAC/mio-nichijou.gif" width="160" align="right" alt="mai" />
 
 - Currently diving into game development (GameMaker, Godot) to create 2D games
 - Learning and relearning C++ and C# for game dev and personal projects
