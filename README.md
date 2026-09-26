@@ -1,6 +1,6 @@
 ```text
 const int GRIND_ATTENTION = NEURONACTIVATION1;
-const int ANIME_PIN = A0;
+const int ANIME_ATTENTION = NEURONACTIVATION_A0;
 
 void setup(){
   Work.begin(FMAD);
@@ -8,7 +8,7 @@ void setup(){
 }
 
 void loop(){
-  if (analogRead(ANIME_PIN) <= 2) {
+  if (analogRead(ANIME_ATTENTION) <= 2) {
     Work.println("Stopping the coding grind to start anime grind...");
     digitalWrite(GRIND_ATTENTION, LOW);
     delay(3600000);
