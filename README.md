@@ -34,7 +34,7 @@ void loop(){
 
 ## what do I know?
 
-<img src="https://media1.tenor.com/m/SB7bA0AubVwAAAAC/mio-nichijou.gif" width="370" align="right" alt="mai" />
+<img src="https://media1.tenor.com/m/SB7bA0AubVwAAAAC/mio-nichijou.gif" width="280" align="right" alt="mai" />
 
 <table>
   <tr>
