@@ -43,7 +43,7 @@ void loop(){
   </tr>
   <tr>
     <td align="left" valign="middle"><b>Front-end</b></td>
-    <td valign="middle"><img height="40" src="https://skillicons.dev/icons?i=tailwind,threejs,vite,vue" alt="Tailwind CSS, Three.js, Vite, Vue" /></td>
+    <td valign="middle"><img height="40" src="https://skillicons.dev/icons?i=tailwind,threejs,vite" alt="Tailwind CSS, Three.js, Vite" /></td>
   </tr>
   <tr>
     <td align="left" valign="middle"><b>Languages & Frameworks</b></td>
