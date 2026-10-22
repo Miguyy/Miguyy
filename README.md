@@ -63,7 +63,7 @@ void loop(){
 
 <table>
   <tr>
-    <th align="center" valign="middle"><b>Hackathon</b></th>
+    <th align="center" valign="middle"><b>Awards</b></th>
     <th align="center" valign="middle"><b>Development</b></th>
   </tr>
   <tr>
