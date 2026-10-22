@@ -59,7 +59,7 @@ void loop(){
   </tr>
 </table>
 
-## hackathons
+## awards
 
 <table>
   <tr>
