@@ -70,6 +70,10 @@ void loop(){
     <td align="center" valign="middle">🥇 1st place TeamGreen4ALL Hackathon, May 2026 at FMAD</td>
     <td align="center" valign="middle">Nuxt.js & AI</td>
   </tr>
+   <tr>
+    <td align="center" valign="middle">🥉 3rd place Best Second interdisciplinary Project, June 2026 at FMAD</td>
+    <td align="center" valign="middle">Full-stack</td>
+  </tr>
 </table>
 
 ## still curious?
